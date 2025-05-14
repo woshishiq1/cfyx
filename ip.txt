@@ -72,4 +72,4 @@ www.ipget.net
 www.iakeys.com
 www.who.int
 download.yunzhongzhuan.com
-2606:4700:0:0:0:0:0:0#不死ipv6
+2606:4700::00#不死ipv6
