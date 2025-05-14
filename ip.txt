@@ -35,3 +35,5 @@
 'cmcc.090227.xyz#移动官方优选',
 'bestproxy.onecf.eu.org#mingyu提供维护反代优选',
 'proxy.xxxxxxxx.tk#otc提供维护反代优选',
+'pages.cloudflare.com',
+'workers.cloudflare.com',
