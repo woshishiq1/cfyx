@@ -1,4 +1,3 @@
-[
 'cfip.xxxxxxxx.tk#otc提供维护官方优选',
 'bestcf.onecf.eu.org#mingyu提供维护官方优选',
 'cf.zhetengsha.eu.org#小一提供维护官方优选',
@@ -36,4 +35,3 @@
 'cmcc.090227.xyz#移动官方优选',
 'bestproxy.onecf.eu.org#mingyu提供维护反代优选',
 'proxy.xxxxxxxx.tk#otc提供维护反代优选'
-]
