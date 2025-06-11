@@ -1,13 +1,8 @@
 cdn.jsdelivr.net
-cdnjs.cloudflare.com
 pages.cloudflare.com
 workers.cloudflare.com
-dash.cloudflare.com
 static.cloudflareinsights.com
-cloudflare.com
-cloudflare-ipfs.com
 
-www.boba88slot.com
 japan.com
 russia.com
 www.ipchicken.com
