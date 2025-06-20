@@ -54,7 +54,7 @@ edtunnel-dgp.pages.dev
 www.ipget.net
 log.bpminecraft.com
 icook.hk
-[2606:4700::00]:8443#不死v6
+2606:4700::00
 
 freeyx.cloudflare88.eu.org
 digitalocean.com
