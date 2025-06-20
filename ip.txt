@@ -55,11 +55,7 @@ www.ipget.net
 log.bpminecraft.com
 icook.hk
 [2606:4700::00]:8443#不死v6
-[2606:4700:51:471f:7ddc:6031:fbf9:b9d3]:8443
-[2606:4700:1a:40b:f6b6:4951:378c:62bc]:8443
-[2a06:98c1:56:635d:c531:fb42:48d2:2056]:8443
-[2803:f800:54:abba:f12a:5631:7230:ff83]:8443
-[2606:4700:139:d79a:d370:afe9:47af:82ee]:8443
+
 freeyx.cloudflare88.eu.org
 digitalocean.com
 bestcf.top
@@ -68,7 +64,6 @@ cf.090227.xyz
 cf.zhetengsha.eu.org
 cloudflare.9jy.cc
 cnamefuckxxs.yuchen.icu
-cfip.xxxxxxxx.tk
 cloudflare-ip.mofashi.ltd
 cdn.tzpro.xyz
 cloudflare.182682.xyz
@@ -93,11 +88,6 @@ cf.877771.xyz
 104.26.2.251
 172.67.65.101
 172.67.77.238
-
-[2606:4700:57:383e:b56:6f46:5945:d3f4]:443
-[2606:4700:a9:2543:eb77:b12a:f35:dff8]:443
-[2a06:98c1:3121:87f9:3604:e301:742e:b4ae]:443
-[2a06:98c1:3120:fcac:c259:cc79:5431:9ca1]:443
 
 104.16.0.0
 
