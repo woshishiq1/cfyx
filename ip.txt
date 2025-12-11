@@ -1,3 +1,7 @@
+104.21.239.58
+104.17.128.72
+2606:4700:4405:b0c5:9b1e:6d90:ee47:fa69
+
 cdn.jsdelivr.net
 pages.cloudflare.com
 workers.cloudflare.com
