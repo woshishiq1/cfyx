@@ -12,6 +12,13 @@
 167.179.76.8:443
 207.65.189.9:443
 168.138.46.67:443
+//wuyage
+tw.881288.xyz:43
+hk.881288.xyz:443
+us.881288.xyz:443
+sg.881288.xyz:443
+jp.881288.xyz:443
+kr.881288.xyz:20000
 
 cdn.jsdelivr.net
 pages.cloudflare.com
