@@ -7,16 +7,9 @@
 2a06:98c1:310d:3af5:06f9:ff7c:397f:ef1f
 2a06:98c1:310b:6277:dc97:ccff:770b:7f29
 //jp
-45.78.58.124:443
+
 18.180.107.11:8443
-8.211.134.8:50001
-//wuyage
-tw.881288.xyz:43
-hk.881288.xyz:443
-us.881288.xyz:443
-sg.881288.xyz:443
-jp.881288.xyz:443
-kr.881288.xyz:20000
+
 
 cdn.jsdelivr.net
 pages.cloudflare.com
@@ -43,9 +36,8 @@ cdns.doon.eu.org
 cf.0sm.com
 cf.877771.xyz
 cf.877774.xyz
-cf.900501.xyz
 cfip.1323123.xyz
-cfip.cfcdn.vip
+
 cfip.xxxxxxxx.tk
 wetest.cloudflare.182682.xyz
 cloudflare-dl.byoip.top
@@ -64,7 +56,7 @@ ddk.cfyx.20237737.xyz
 cloudflare.idc.rocks
 
 wetest.cloudflare.182682.xyz
-bestcf.top
+
 cf.zhetengsha.eu.org	
 cnamefuckxxs.yuchen.icu
 cdn.tzpro.xyz
